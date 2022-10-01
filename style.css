@@ -1,0 +1,20 @@
+body {
+    margin:0;
+    font-family: sans-serif;
+}
+
+.hero {
+  background-image: url(img/Portugal_Houses_Rivers_487761_3840x2160.jpg);
+  color: beige;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-size: cover;
+}
+
+.container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
